@@ -1,61 +1,68 @@
 # Hi, I'm Suyash Birhade 👋
 
-### AI/ML Student • Data Science & Artificial Intelligence • Builder
+### AI/ML Student • Data Science & Artificial Intelligence • AI Builder
 
-I'm a **Data Science & Artificial Intelligence student at IIIT Dharwad** passionate about building intelligent, practical, and deployable AI systems.
+I'm a **Data Science & Artificial Intelligence student at IIIT Dharwad** interested in building intelligent systems that solve real-world problems.
 
-I work across **Machine Learning, Generative AI, Agentic AI, Computer Vision, and Data Science**, with a focus on turning ideas into real-world applications.
+My current focus is on **Machine Learning, Generative AI, Agentic AI, Reinforcement Learning, Computer Vision, and Decision Intelligence**.
+
+I enjoy turning ideas into **practical, deployable AI systems** and experimenting with emerging AI technologies.
 
 ---
 
 ## 🧠 About Me
 
 - 🎓 B.Tech Student in **Data Science & Artificial Intelligence — IIIT Dharwad**
-- 🤖 Currently focused on **Machine Learning, Deep Learning & Generative AI**
-- 🧩 Exploring **AI Agents, RAG, LLM applications & multimodal AI**
+- 🤖 Exploring **Machine Learning, Generative AI & Agentic AI**
+- 🧠 Interested in **LLM agents, reinforcement learning & intelligent systems**
+- 👁️ Building projects in **Computer Vision**
+- 🌍 Interested in **AI-powered decision intelligence**
 - 🐍 Primary language: **Python**
-- 🚀 Interested in building **real-world AI products**
-- 🏆 Participating in **hackathons & technical competitions**
-- 📚 Currently strengthening **DSA + ML fundamentals**
+- 🏆 Active in **hackathons & technical competitions**
+- 📚 Currently strengthening **DSA, ML & Deep Learning**
 - 🎯 Goal: Become a strong **AI/ML Engineer**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌾 [AgriAdvice](YOUR_REPO_LINK)
-> AI-powered agricultural advisory system
+### 🤖 [Customer Support OpenEnv](https://github.com/suyash24-cmd/customer-support-openenv)
+> OpenEnv-compatible reinforcement learning environment for training and benchmarking LLM agents.
 
-- Multimodal AI assistance for farmers
-- Weather, soil & market intelligence
-- AI-powered recommendations
-- Designed for real-world accessibility
+- Benchmarks LLM agents on tool use
+- Policy reasoning and decision making
+- Customer support ticket resolution
+- Refund and escalation workflows
+- Evaluates agent efficiency and behavior
 
-**Tech:** `Python` `AI/ML` `LLMs` `Agents` `APIs`
+**Tech:** `Python` `LLM Agents` `Reinforcement Learning` `OpenEnv`
 
 ---
 
-### 🌍 [Global Relocation Intelligence Engine](YOUR_REPO_LINK)
-> Multi-factor AI-assisted travel & relocation decision system
+### 🌍 [Global Relocation Intelligence](https://github.com/suyash24-cmd/global-relocation-intelligence)
+> Production-ready decision intelligence engine for global relocation decisions.
 
-- Compares cities using multiple factors
-- Integrates real-world public APIs
-- Ranking & scoring engine
-- Explainable recommendations
+- Integrates **5 public APIs**
+- Concurrent data aggregation
+- API response caching
+- Multi-factor scoring
+- Dynamic ranking and recommendations
+- Designed for real-world decision making
 
 **Tech:** `Python` `APIs` `Data Science` `Decision Intelligence`
 
 ---
 
-### 🤖 [Autonomous Disaster Intelligence System](YOUR_REPO_LINK)
-> AI system for disaster monitoring, analysis and response
+### 🪄 [SpellCaster CV](https://github.com/suyash24-cmd/Spellcaster-cv)
+> Real-time computer vision system for gesture recognition and interactive spell effects.
 
-- Disaster information aggregation
-- AI-powered situation analysis
-- Risk assessment
-- Intelligent response recommendations
+- Real-time hand tracking
+- Hand gesture recognition
+- Computer vision-based interaction
+- Interactive visual effects
+- Built using OpenCV and MediaPipe
 
-**Tech:** `Python` `Machine Learning` `GenAI` `Agents`
+**Tech:** `Python` `OpenCV` `MediaPipe` `Computer Vision`
 
 ---
 
@@ -73,11 +80,14 @@ I work across **Machine Learning, Generative AI, Agentic AI, Computer Vision, an
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-### Generative AI
+### AI & GenAI
 
-`LLMs` `RAG` `AI Agents` `Prompt Engineering` `Vector Databases` `Embeddings`
+`LLMs` `AI Agents` `RAG` `Reinforcement Learning` `Embeddings` `Prompt Engineering`
+
+### Computer Vision
+
+`OpenCV` `MediaPipe` `Image Processing` `Gesture Recognition`
 
 ### Tools & Platforms
 
@@ -89,7 +99,7 @@ I work across **Machine Learning, Generative AI, Agentic AI, Computer Vision, an
 
 ---
 
-## 📌 What I'm Currently Learning
+## 📌 Currently Learning
 
 ```text
 Machine Learning
@@ -100,22 +110,12 @@ PyTorch
       ↓
 Generative AI
       ↓
-RAG & LLM Applications
+LLM Applications
       ↓
-Agentic AI
+RAG
+      ↓
+AI Agents
+      ↓
+Reinforcement Learning
       ↓
 Production AI Systems
-<!--
-**suyash24-cmd/suyash24-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
